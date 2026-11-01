@@ -2,7 +2,7 @@
 
 Personal developer portfolio showcasing full-stack web applications, technical skills, and engineering experience in Java, Spring Boot, React.js, and SQL.
 
-**Live site:** https://YOUR-SITE-URL/
+**Live site:** https://sangiportfolio.vercel.app/
 
 Built during the placement training program at [TAP Academy](https://thetapacademy.com/) (full-stack development, AI and augmented reality training).
 
@@ -27,3 +27,4 @@ Create a `.env.local` file in the project root with the following variables:
 - `VITE_EMAILJS_SERVICE_ID`
 - `VITE_EMAILJS_TEMPLATE_ID`
 - `VITE_EMAILJS_PUBLIC_KEY`
+
