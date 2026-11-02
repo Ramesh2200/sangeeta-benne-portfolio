@@ -18,10 +18,10 @@ export const personalInfo = {
   resumeUrl: "/Resume.pdf", // put the PDF inside /public
 };
 
-// TAP Academy — the academy you trained with. Used in the footer credit.
+// KodNest — the academy you trained with. Used in the footer credit.
 export const academy = {
-  name: "TAP Academy",
-  url: "https://thetapacademy.com/",
+  name: "KodNest",
+  url: "https://www.kodnest.com/",
 };
 
 export const socialLinks = {
@@ -46,7 +46,7 @@ export const heroContent = {
 export const aboutContent = {
   heading: "Hello!",
   // HTML is allowed here (it is rendered with dangerouslySetInnerHTML) — keep it YOUR OWN trusted text.
-  bio: `Hi, my name is <span class="text-black text-xl font-black mx-1 tracking-wide uppercase">SANGEETA BENNE</span>, a Computer Science and Engineering graduate based in Bengaluru, India with a strong foundation in Java, Python, web development, and database management. I enjoy developing user-friendly applications and have worked on projects such as a Smart Vehicle Parking Management System and an E-Commerce Website using modern technologies, while sharpening my skills through the placement training program at TAP Academy. I am eager to contribute to a dynamic development team, enhance my technical skills, and grow as a software developer.`,
+  bio: `Hi, my name is <span class="text-black text-xl font-black mx-1 tracking-wide uppercase">SANGEETA BENNE</span>, a Computer Science and Engineering graduate based in Bengaluru, India with a strong foundation in Java, Python, web development, and database management. I enjoy developing user-friendly applications and have worked on projects such as a Smart Vehicle Parking Management System and an E-Commerce Website using modern technologies, while sharpening my skills through the placement training program at KodNest. I am eager to contribute to a dynamic development team, enhance my technical skills, and grow as a software developer.`,
   techStack: ["Java", "Spring Boot", "React.js", "MySQL", "Python", "JavaScript"],
 };
 
@@ -246,7 +246,7 @@ export const certificates = {
   featured: [
     {
       name: "Full Stack Development Placement Training",
-      issuer: "TAP Academy",
+      issuer: "KodNest",
       icon: "🏅",
     },
     {

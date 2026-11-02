@@ -5,7 +5,7 @@ import {
   academy,
 } from '../data/portfolioData'
 
-// Site footer with taglines, giant brand display, social links, and TAP Academy credit
+// Site footer with taglines, giant brand display, social links, and KodNest credit
 export default function Footer() {
   const currentYear = new Date().getFullYear()
 
@@ -47,7 +47,7 @@ export default function Footer() {
 
       {/* Bottom row */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-12 items-end">
-        {/* Column 1: Contact link, copyright, and TAP Academy credit */}
+        {/* Column 1: Contact link, copyright, and KodNest credit */}
         <div className="flex flex-col space-y-2">
           <a
             href="#contact"

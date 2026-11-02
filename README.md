@@ -4,7 +4,7 @@ Personal developer portfolio showcasing full-stack web applications, technical s
 
 **Live site:** https://sangiportfolio.vercel.app/
 
-Built during the placement training program at [TAP Academy](https://thetapacademy.com/) (full-stack development, AI and augmented reality training).
+Built during the placement training program at [KodNest](https://www.kodnest.com/) (full-stack development, AI and augmented reality training).
 
 ## Tech Stack
 - **React 19**
